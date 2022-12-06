@@ -1,0 +1,7 @@
+setup.py
+particleEngine/__init__.py
+particleEngine.egg-info/PKG-INFO
+particleEngine.egg-info/SOURCES.txt
+particleEngine.egg-info/dependency_links.txt
+particleEngine.egg-info/not-zip-safe
+particleEngine.egg-info/top_level.txt
